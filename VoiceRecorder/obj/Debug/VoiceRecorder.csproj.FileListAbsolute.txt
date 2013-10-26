@@ -25,3 +25,6 @@ C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\Voi
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.application
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+C:\Users\sweisfel\Documents\GitHub\ReadingResourceRecorder\bin\Debug\VoiceRecorder.exe.config
+C:\Users\sweisfel\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+C:\Users\sweisfel\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder\obj\Debug\VoiceRecorder.pdb

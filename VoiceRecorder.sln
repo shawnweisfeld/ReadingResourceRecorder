@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceRecorder.Audio", "Voic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceRecorder.Tests", "VoiceRecorder.Tests\VoiceRecorder.Tests.csproj", "{8720D71D-A0DE-4E13-8CC9-FC6515872FED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{A2138441-31AB-4E64-9A7F-44D74DFF7C7E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,10 +37,6 @@ Global
 		{8720D71D-A0DE-4E13-8CC9-FC6515872FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8720D71D-A0DE-4E13-8CC9-FC6515872FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8720D71D-A0DE-4E13-8CC9-FC6515872FED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A2138441-31AB-4E64-9A7F-44D74DFF7C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2138441-31AB-4E64-9A7F-44D74DFF7C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2138441-31AB-4E64-9A7F-44D74DFF7C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2138441-31AB-4E64-9A7F-44D74DFF7C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
