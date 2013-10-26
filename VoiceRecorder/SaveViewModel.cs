@@ -72,11 +72,21 @@ namespace VoiceRecorder
 
         private void Save()
         {
-            var file = HttpUtility.UrlDecode(ApplicationDeployment.CurrentDeployment.ActivationUri.Query.Substring(6));
+            var fileName = @"C:\Users\SHAWN\temp\test\test.wav";
+    
+            if (ApplicationDeployment.IsNetworkDeployed)
+                fileName = HttpUtility.UrlDecode(ApplicationDeployment.CurrentDeployment.ActivationUri.Query.Substring(6));
 
-            MessageBox.Show(string.Format("Saving to: {0}", file));
+            var fileInfo = new FileInfo(fileName);
 
-            SaveAs(file);
+            Directory.CreateDirectory(fileInfo.DirectoryName);
+
+            if (fileInfo.Exists)
+                fileInfo.Delete();
+
+            MessageBox.Show(string.Format("Saving to: {0}", fileName));
+
+            SaveAs(fileName);
 
             MessageBox.Show("Saved!");
         }

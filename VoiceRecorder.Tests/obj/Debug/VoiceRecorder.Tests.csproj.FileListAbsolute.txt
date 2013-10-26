@@ -11,3 +11,16 @@ C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Tests\bin\Deb
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.csprojResolveAssemblyReference.cache
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.dll
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.pdb
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Tests.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Tests.pdb
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\NAudio.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\nunit.framework.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\pnunit.framework.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Audio.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\NAudio.xml
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\bin\Debug\nunit.framework.xml
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.csprojResolveAssemblyReference.cache
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Tests\obj\Debug\VoiceRecorder.Tests.pdb

@@ -5,3 +5,10 @@ C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Deb
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
 C:\Users\sweisfel\Desktop\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
