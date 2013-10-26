@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\sweisfel\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Core\obj\Debug\
+C:\Users\SHAWN\Documents\GitHub\ReadingResourceRecorder\VoiceRecorder.Core\obj\Debug\
 VoiceRecorder.Core
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 3-1484386738
 
-81739529970
-15-1099759893
+12-707062462
+1629308406
 PolygonWaveFormControl.xaml;RangeSelectionControl.xaml;WaveFileTrimmerControl.xaml;
 
-True
+False
 
